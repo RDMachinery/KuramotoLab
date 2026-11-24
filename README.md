@@ -4,7 +4,7 @@
 
 Kuramoto Lab is a small desktop program that lets you watch thousands of independent "clocks" fall into step with one another, all by themselves, with no conductor telling them what to do. Drag a slider and you can see the exact moment disorder gives way to harmony.
 
-![Kuramoto Lab in action](images/screenshot.png)
+![Kuramoto Lab in action](screenshot.png)
 
 ---
 
@@ -91,7 +91,7 @@ Here 25,600 oscillators sit on a grid, and each one only feels its four immediat
 4. Watch them wander. When a clockwise vortex meets an anticlockwise one, the two annihilate each other and the colours smooth over. Order spreads not all at once, but by the slow elimination of defects.
 5. Raise **Spread γ** a little and the patches start to compete, each trying to impose its own rhythm on its neighbours.
 
-![The lattice: domains of matching rhythm, with vortices where all colours meet](images/lattice.png)
+![The lattice: domains of matching rhythm, with vortices where all colours meet](lattice.png)
 
 ---
 
